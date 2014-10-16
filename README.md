@@ -11,7 +11,7 @@ Below are example sections from a typical Data Management Plan:
 
 - [Data entry procedures](data-entry-procedures.md)
 
-- Transfer of electronic data
+- [Transfer of electronic data](transfer-of-electronic-data.md)
 
 - Manual data reviews
 
