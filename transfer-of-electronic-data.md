@@ -22,3 +22,6 @@ A job will run on the SFTP server two times each day that will pull newly upload
 ### Decryption and further processing
 
 DCC staff will subsequently decrypt and process incoming study data files per protocol.
+
+===============
+[Back to README](README.md)
