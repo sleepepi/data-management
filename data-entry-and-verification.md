@@ -61,6 +61,16 @@ The most appropriate software for entry and verification will vary by a project'
 
 #### Storage
 
+Because of privacy and security concerns, special consideration is needed for the storage of research data. Additional consideration must be made regarding blinded data to ensure the integrity of the research process. Investigators and managers should designate storage space for:
+
+1. Live data
+  * For security and data integrity purposes, restrict user access to "live data" to users who enter and verify data or oversee the process.
+  * Data should be stored in password protected and encrypted locations.
+  * Unless study demands and resources are such that only unblinded staff can enter, verify, and oversee all data, create separate access to blinded and unblinded data.
+2. Archived data
+  * Live data should be archived frequently to maintain data integrity. The specific frequency will vary by project, but archiving weekly or monthly is a generally good practice.
+  * Like live data, archived data should be restricted by user and password protected.
+  * Archived data should be accessible only to unblinded staff or should be compartmentalized into different locations with different access rights.
 
 Oversight
 ---------
