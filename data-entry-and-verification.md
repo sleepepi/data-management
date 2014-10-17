@@ -20,14 +20,14 @@ Content
 Process
 -------
 
-##### Data Entry
+#### Data Entry
 
  	Data is given to unblinded study staff members to enter
  	electronically in a timely manner after visits. Most data is
  	entered and saved within 7 days of the study visit; all data is
  	entered within 2 weeks of the visit date.
 
-##### Data Verification
+#### Data Verification
 
   Data is verified in one of two ways:
 
