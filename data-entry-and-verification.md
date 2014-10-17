@@ -34,9 +34,9 @@ Data is given to designated study staff members to enter electronically in a tim
 
 Data is verified in one of two ways:
 
-1. Data is entered once by one study staff member, who would mark it as 'Ready to be reviewed' electronically and then is reviewed n a timely manner by a second study staff member and compared to the original data. The second staff memeber will then make any necessary corrections and mark it as 'Completed' or 'Reviewed'.
+1. Data is entered once by one study staff member, who marks it 'Ready to be reviewed' electronically. Subsequently, the entered data is reviewedby a second study staff member and compared to the original data. The second staff member will then make any necessary corrections and mark it as 'Completed' or 'Reviewed'.
 
-2. In the second verification method, double data entry is utilized. Two staff members will enter identical data sets into the collection instruments, and a third staff member will then compare the two entries for discrepancies, make corrections, and then merge them into one complete, verified file.
+2. In the second verification method, double data entry is utilized. Two staff members will separately enter identical data sets into the collection instruments, and a third staff member will then compare the two entries for discrepancies, make corrections, and then merge them into one complete, verified file.
 
 
 Mechanism
