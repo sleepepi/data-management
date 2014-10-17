@@ -19,8 +19,6 @@ Content
   - Software
   - Storage
 * Oversight
-  - Responsible Party
-  - Workflow and tracking
 
 
 Process
@@ -39,8 +37,8 @@ Data is verified in one of two ways:
 2. In the second verification method, double data entry is utilized. Two staff members will separately enter identical data sets into the collection instruments, and a third staff member will then compare the two entries for discrepancies, make corrections, and then merge them into one complete, verified file.
 
 
-Mechanism
----------
+Mechanisms
+----------
 
 #### Software
 
@@ -74,3 +72,10 @@ Because of privacy and security concerns, special consideration is needed for th
 
 Oversight
 ---------
+An individual must be identified who is responsible for the oversight of data entry and verification procedures. Depending on study specifics, likely parties for oversight are the study's project manager or data manager. A workflow should be created that:
+
+1. Identifies staff members for entry and verification tasks
+2. Details how staff members will know data is ready for entry and verification
+3. Implements the method in which timely entry and verification will be accomplished and logged
+
+Spreadsheets and/or calender-based project management tools can aid in oversight of data entry and verification. It is also wise to designate a physical location where forms in need of entry/verification are temporarily stored that is distinct from the long-term storage of forms that have been entered and verified.
