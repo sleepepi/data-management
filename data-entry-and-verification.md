@@ -9,26 +9,25 @@ Data entry and verification are two separate but interrelated steps in data mana
   * Designation of a secure storage location
   * Development of workflow detailing tracking procedures and frequency of completion
 
-CONTENT
+Content
 -------
 
-* Collection and Entry of Data
-* Verification of Data
+* Process
+  - Data Entry
+  - Data Verification
 
-Collection and Entry of Data
-----------------------------
 
-* Data Entry Process
+Process
+-------
+
+#### Data Entry Process
 
  	Data is given to unblinded study staff members to enter
  	electronically in a timely manner after visits. Most data is
  	entered and saved within 7 days of the study visit; all data is
  	entered within 2 weeks of the visit date.
 
-Verification of Data
---------------------
-
-* Data Verification Process
+#### Data Verification Process
 
 	Data is verified in one of two ways:
 
