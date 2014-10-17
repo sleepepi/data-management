@@ -15,21 +15,21 @@ Content
 * Process
   - Data Entry
   - Data Verification
-
+-------
 
 Process
 -------
 
-#### Data Entry Process
+##### Data Entry
 
  	Data is given to unblinded study staff members to enter
  	electronically in a timely manner after visits. Most data is
  	entered and saved within 7 days of the study visit; all data is
  	entered within 2 weeks of the visit date.
 
-#### Data Verification Process
+##### Data Verification
 
-	Data is verified in one of two ways:
+  Data is verified in one of two ways:
 
 	1) Data is entered once by one study staff member, who would mark
  	it as 'Ready to be reviewed' electronically and then is reviewed
