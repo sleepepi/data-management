@@ -1,6 +1,14 @@
 Data Entry and Verification
 ===========================
 
+Overview
+--------
+Data entry and verification are two separate but interrelated steps in data management. Timely completion of these steps ensures maximum data completeness and accuracy. Though ideal timing will vary by project, data type, and available resources, completion of entry and verification within one week of data collection is a standard best practice. Important considerations include:
+  *Identification of parties responsible for entry, verification and oversight
+  *Utilization of software appropriate to the project's demands
+  *Designation of a secure storage location
+  *Development of workflow detailing tracking procedures and frequency of completion
+
 CONTENT
 -------
 
