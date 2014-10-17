@@ -15,6 +15,12 @@ Content
 * Process
   - Data Entry
   - Data Verification
+* Mechanism
+  - Software
+  - Storage
+* Oversight
+  - Responsible Party
+  - Workflow and tracking
 
 
 Process
@@ -22,23 +28,25 @@ Process
 
 #### Data Entry
 
- 	Data is given to unblinded study staff members to enter
- 	electronically in a timely manner after visits. Most data is
- 	entered and saved within 7 days of the study visit; all data is
- 	entered within 2 weeks of the visit date.
+Data is given to designated study staff members to enter electronically in a timely manner after collection. Though the project's specific demands and resources dictate the specific timing, data entry should be prioritized since it helps identify potentially missing data. In designating staff members for data entry, investigators and managers should consider whether or not the data will unblind staff to treatment assignment.
 
 #### Data Verification
 
-  Data is verified in one of two ways:
+Data is verified in one of two ways:
 
-	1) Data is entered once by one study staff member, who would mark
- 	it as 'Ready to be reviewed' electronically and then is reviewed
- 	in a timely manner by a second study staff member and compared to
- 	the original data. The second staff memeber will then make any
- 	necessary corrections and mark it as 'Completed' or 'Reviewed'.
+1. Data is entered once by one study staff member, who would mark it as 'Ready to be reviewed' electronically and then is reviewed n a timely manner by a second study staff member and compared to the original data. The second staff memeber will then make any necessary corrections and mark it as 'Completed' or 'Reviewed'.
 
- 	2) In the second verification method, double data entry is
- 	utilized. Two staff members will enter identical data sets into
- 	the collection instruments, and a third staff member will then
- 	compare the two entries for discrepancies, make corrections, and
- 	then merge them into one complete, verified file.
+2. In the second verification method, double data entry is utilized. Two staff members will enter identical data sets into the collection instruments, and a third staff member will then compare the two entries for discrepancies, make corrections, and then merge them into one complete, verified file.
+
+
+Mechanism
+---------
+
+#### Software
+
+
+#### Storage
+
+
+Oversight
+---------
