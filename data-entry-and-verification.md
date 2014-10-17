@@ -28,7 +28,7 @@ Process
 
 #### Data Entry
 
-Data is given to designated study staff members to enter electronically in a timely manner after collection. Though the project's specific demands and resources dictate the specific timing, data entry should be prioritized since it helps identify potentially missing data. In designating staff members for data entry, investigators and managers should consider whether or not the data will unblind staff to treatment assignment.
+Data is given to designated study staff members to enter electronically in a timely manner after collection. Though the project's specific demands and resources dictate the appropriate timing, prioritizing data entry can aid in identifying potentially missing data. In designating staff members for data entry, investigators and managers should consider whether or not the data will unblind staff to treatment assignment.
 
 #### Data Verification
 
@@ -44,6 +44,20 @@ Mechanism
 
 #### Software
 
+The most appropriate software for entry and verification will vary by a project's demands, resources, and scope. In selecting software, investigators and managers should consider the types and volume of data involved, the capabilities of staff responsible for entry/verification and oversight, and institutional/field standards. Though there are numerous software options, there are several common packages used by the Division of Sleep Medicine Epidemiology, often in conjunction with one another for the same project:
+
+1. [Slice](https://sleepepi.partners.org/slice/)
+  * Developed within the Division of Sleep Medicine Epidemiology, Slice is a secure web application that can be customized to the specific needs of a project.
+2. [REDCap (Research Electronic Data Capture)](https://redcap.partners.org/redcap/)
+  * Originally developed at Vanderbilt University (2004), REDCap is a secure web application designed for building and managing online research databases.
+  * Databases can be designed online with minimal to no computer science background.
+    - Data can be created interchangeably using dropdown menus, numeric or text entry, and can be restricted to meet data type requirements.
+    - Inclusion of a dropdown menu for "Incomplete," "Entered," and "Verified" can document entry and verification process.
+  * Access can be restricted and logged by user.
+  * Data can be exported and stored locally for archiving in formats compatible with common statistical packages (SAS,R,SPSS,Stata).
+3. Offline software
+  * Spreadsheet (e.g. Excel), database (e.g. Access), and other common software users are likely to have previously encountered
+  * Direct entry into statistical programming or other software formats (SAS,R,etc.).
 
 #### Storage
 
