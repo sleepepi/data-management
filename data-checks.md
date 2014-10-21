@@ -30,7 +30,6 @@ Outliers or data that may seem implausible often occur in clinical datasets. The
 #### Reporting
 Results of data checks can be easily exported from program software into useful formats such as .pdfs or spreadsheets. If not performing the checks and generating the reports directly, the study's data manager should appoint an individual staff member to be responsible for running data checks and should detail a procedure for handling data discrepancies.
 
-
 Mechanisms
 ----------
 
@@ -40,3 +39,7 @@ There are many statistical software packages available to aid in data checking. 
 1. SAS©. In the Division of Sleep Medicine Epidemiology, SAS© is the software package used most frequently in data checking. SAS© has strong data handling capabilities and is able to process large, rectangular datasets efficiently. Because data checking often involves checking the values of many variables across multiple observations (or subjects), SAS© is effective in this process. SAS© software is maintained by and available for purchase through the SAS Institute.
 
 2. R. R is open source software for statistical computing and graphing. Maintained by a growing user community and available for free online through [r-project.org](http://www.r-project.org/), R provides a variety of software packages and statistical functions that can aid in data management as well as analysis. Its flexibility can be an asset especially for unique or unusual data types.
+
+Oversight
+---------
+In many cases, the project's data manager will be responsible for generating data checks and addressing discrepancies when necessary. However, there may be some instances (e.g. the data manager is shared across multiple projects), where it makes sense to appoint the project coordinator or other study staff to oversee data checking. Reports from data checking should be shared with designated staff members with specific instructions on how to handle discrepancies.
