@@ -27,6 +27,9 @@ Missing data is a common problem in clinical datasets. Running frequent data che
 #### Outliers / Implausible Data
 Outliers or data that may seem implausible often occur in clinical datasets. These data may represent real values, but sometimes they signify errors in data entry or collection. Programs may flag potentially implausible data by applying simple logic (e.g. a variable measuring "hours/day" of an activity has some value > 24 hours) or using a priori knowledge of the acceptable range of values (e.g. oxygen saturation = 0% for living participant; participant height = 170 and the unit of measure is inches). In addition to implausible values checks previously described, or when such checks are not feasible, plausibility of data may be evaluated by identifying outliers based on data distributions. Outliers and potentially invalid data should be checked against the data source to confirm accurate data entry. Otherwise, the manner with which outliers and implausible data are handled will vary by the project and data type; the project's data manager should dictate specific methods at his or her discretion and study staff should document any changes made to the raw data.
 
+#### Reporting
+Results of data checks can be easily exported from program software into useful formats such as .pdfs or spreadsheets. If not performing the checks and generating the reports directly, the study's data manager should appoint an individual staff member to be responsible for running data checks and should detail a procedure for handling data discrepancies.
+
 
 Mechanisms
 ----------
@@ -34,7 +37,6 @@ Mechanisms
 #### Software
 There are many statistical software packages available to aid in data checking. These include:
 
-1. SAS. In the Division of Sleep Medicine Epidemiology, SAS© is the software package used most frequently in data checking. SAS has strong data handling capabilities and is able to process large, rectangular datasets efficiently. Because data checking often involves checking the values of multiple variables across multiple observations (or subjects), SAS is useful in this process.
+1. SAS©. In the Division of Sleep Medicine Epidemiology, SAS© is the software package used most frequently in data checking. SAS© has strong data handling capabilities and is able to process large, rectangular datasets efficiently. Because data checking often involves checking the values of many variables across multiple observations (or subjects), SAS© is effective in this process. SAS© software is maintained by and available for purchase through the SAS Institute.
 
-2. R.
-
+2. R. R is open source software for statistical computing and graphing. Maintained by a growing user community and available for free online through [r-project.org](http://www.r-project.org/), R provides a variety of software packages and statistical functions that can aid in data management as well as analysis. Its flexibility can be an asset especially for unique or unusual data types.
