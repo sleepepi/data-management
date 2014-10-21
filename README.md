@@ -9,7 +9,7 @@ Below are example sections from a typical Data Management Plan:
 
 - Database validation and logic checks
 
-- [Data entry procedures](data-entry-procedures.md)
+- [Data entry procedures](300-data-entry-and-verification.md)
 
 - [Transfer of electronic data](transfer-of-electronic-data.md)
 
