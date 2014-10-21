@@ -43,3 +43,6 @@ There are many statistical software packages available to aid in data checking. 
 Oversight
 ---------
 In many cases, the project's data manager will be responsible for generating data checks and addressing discrepancies when necessary. However, there may be some instances (e.g. the data manager is shared across multiple projects), where it makes sense to appoint the project coordinator or other study staff to oversee data checking. Reports from data checking should be shared with designated staff members with specific instructions on how to handle discrepancies.
+
+===============
+[Back to README](README.md)

@@ -81,3 +81,6 @@ An individual must be identified who is responsible for the oversight of data en
 3. Implements the method in which timely entry and verification will be accomplished and logged
 
 Spreadsheets and/or calender-based project management tools can aid in oversight of data entry and verification. It is also wise to designate a physical location where forms in need of entry/verification are temporarily stored that is distinct from the long-term storage of forms that have been entered and verified.
+
+===============
+[Back to README](README.md)

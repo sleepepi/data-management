@@ -11,3 +11,6 @@ A page about data collection and storage. Topics include:
   * Electronic Data
     - Storage
     - What happens to device data after transfer
+
+===============
+[Back to README](README.md)
