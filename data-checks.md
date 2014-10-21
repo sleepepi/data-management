@@ -24,6 +24,9 @@ Custom programs are written to analyze electronically stored data for discrepanc
 #### Missing Data
 Missing data is a common problem in clinical datasets. Running frequent data checks can aid in identifying missing data and differentiate between data that is expected to be missing and data that should have been collected. For data that should have been collected, staff check to see if the data was collected but not entered electronically, or if the data was not collected. In many cases, data that was not collected may still be obtainable. For example, if the data being checked is from a questionnaire, and a missing value is found, staff may follow-up with the study participant to obtain a response.
 
+#### Outliers / Implausible Data
+Outliers or data that may seem implausible often occur in clinical datasets. These data may represent real values, but sometimes they signify errors in data entry or collection. Programs may flag potentially implausible data by applying simple logic (e.g. a variable measuring "hours/day" of an activity has some value > 24 hours) or using a priori knowledge of the acceptable range of values (e.g. oxygen saturation = 0% for living participant; participant height = 170 and the unit of measure is inches). In addition to implausible values checks previously described, or when such checks are not feasible, plausibility of data may be evaluated by identifying outliers based on data distributions. Outliers and potentially invalid data should be checked against the data source to confirm accurate data entry. Otherwise, the manner with which outliers and implausible data are handled will vary by the project and data type; the project's data manager should dictate specific methods at his or her discretion and study staff should document any changes made to the raw data.
+
 
 Mechanisms
 ----------
