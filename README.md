@@ -5,16 +5,18 @@ Procedures and manuals related to the management of research data in our group.
 
 Below are example sections from a typical Data Management Plan:
 
-- Data handling and tracking
+### 100 Pre-collection
 
-- Database validation and logic checks
+### 200 Collection
 
-- [Data entry procedures](300-data-entry-and-verification.md)
+### [300 Entry](300-data-entry-and-verification.md)
 
-- [Transfer of electronic data](transfer-of-electronic-data.md)
+### 400 Verification
 
-- Manual data reviews
+### 500 Checking
 
-- Case Report Form inventorying and tracking
+### 600 Response to checking
 
-- Preparing final datasets
+### 700 Closing datasets
+
+### 800 Miscellaneous
