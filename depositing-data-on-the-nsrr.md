@@ -8,7 +8,7 @@ To describe the process of taking a dataset, stripping it of missing and identif
 
 Scope
 -----
-This SOP is intended for use by any clinical research staff who maybe involved in the collection, cleaning, or curation of any dataset that is to be hosted by the NSRR.
+This SOP is intended for use by any clinical research staff who may be involved in the collection, cleaning, or curation of any dataset that is to be hosted by the NSRR.
 
 Responsibilities
 ----------------

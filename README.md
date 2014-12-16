@@ -7,12 +7,10 @@ Procedures and manuals related to the management of research data in our group.
 
 * [Data Checks](data-checks.md)
 
-* Data Coding Procedures
-
 * [Data Entry and Verification](data-entry-and-verification.md)
 
 * [Depositing Data on the NSRR](depositing-data-on-the-nsrr.md)
 
-* Electronic CRF Creation
+* [Electronic CRF Creation](electronic-crf-creation.md)
 
 * [Transfer of Electronic Data](transfer-of-electronic-data.md)
