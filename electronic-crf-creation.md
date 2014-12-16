@@ -7,7 +7,7 @@ To describe the process of creating an electronic case report form (CRF) by addi
 
 Scope
 -----
-This SOP is intended for use by any clinical research staff who may be involved in the creation of CFRs.
+This SOP is intended for use by any clinical research staff who may be involved in the creation of CRFs.
 
 Responsibilities
 ----------------
