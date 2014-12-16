@@ -32,7 +32,11 @@ Procedure
   * For variables that contain option choices, these conventions should be followed whenever possible
     - For yes/no variables, yes should be coded as `1` and no should be coded as `0`
     - For checked/unchecked variables, checked should be coded as `1` and unchecked should be coded as `0`
-    - The following missing codes have been established for use in all projects: `-10: Confusion`, `-9: Missing`, `-8: Not Applicable`, `-2: Don't Know`
+    - The following missing codes have been established for use in all projects:
+      - `-10: Confusion`
+      - `-9: Missing`
+      - `-8: Not Applicable`
+      - `-2: Don't Know`
   * Branching logic should be used judiciously to ensure that the flow of electronic form completion mimics that of the paper copy
 
 References

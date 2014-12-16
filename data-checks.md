@@ -1,23 +1,26 @@
 Data Checks
 ===========
 
-Overview
+Purpose
 --------
 Data checks are an important quality control measure in maintaining a clinical dataset. Frequent and regular data checking identifies potentially problematic or missing values in close enough proximity to data collection that the discrepancy can be rectified more easily than at the conclusion of the study. The appropriate interval for performing data checks will vary by project, but typically data checks occur weekly, biweekly or monthly. In addition to regular checks, periodic checks may be requested by study investigators for specific data. In these cases, data queries are forwarded to members of the Research Informatics group or other study staff.
 
-
-Content
+Scope
 -------
-
-* Process
+* Responsibilities
+* Procedure
   - Missing data checks
   - Outlier/implausible data checks
   - Reporting
-* Mechanisms
+* References
   - Software
-* Oversight
 
-Process
+
+Responsibilities
+---------
+In many cases, the project's data manager will be responsible for generating data checks and addressing discrepancies when necessary. However, there may be some instances (e.g. the data manager is shared across multiple projects), where it makes sense to appoint the project coordinator or other study staff to oversee data checking. Reports from data checking should be shared with designated staff members with specific instructions on how to handle discrepancies.
+
+Procedure
 ----------------
 Custom programs are written to analyze electronically stored data for discrepancies including outlier values, missing or unverified forms and data fields, and the overall state of data collection and entry. The programs are typically authored by members of the Research Informatics department but may also be written by other study staff. After a program is developed, study staff can run the program with little to no programming experience. Reports are generated from these programs and then distributed to the appropriate study staff members, who then correct or verify the error. Reports are then regenerated to verify the correction.
 
@@ -30,7 +33,7 @@ Outliers or data that may seem implausible often occur in clinical datasets. The
 #### Reporting
 Results of data checks can be easily exported from program software into useful formats such as .pdfs or spreadsheets. If not performing the checks and generating the reports directly, the study's data manager should appoint an individual staff member to be responsible for running data checks and should detail a procedure for handling data discrepancies.
 
-Mechanisms
+References
 ----------
 
 #### Software
@@ -39,10 +42,6 @@ There are many statistical software packages available to aid in data checking. 
 1. SAS©. In the Division of Sleep Medicine Epidemiology, SAS© is the software package used most frequently in data checking. SAS© has strong data handling capabilities and is able to process large, rectangular datasets efficiently. Because data checking often involves checking the values of many variables across multiple observations (or subjects), SAS© is effective in this process. SAS© software is maintained by and available for purchase through the SAS Institute.
 
 2. R. R is open source software for statistical computing and graphing. Maintained by a growing user community and available for free online through [r-project.org](http://www.r-project.org/), R provides a variety of software packages and statistical functions that can aid in data management as well as analysis. Its flexibility can be an asset especially for unique or unusual data types.
-
-Oversight
----------
-In many cases, the project's data manager will be responsible for generating data checks and addressing discrepancies when necessary. However, there may be some instances (e.g. the data manager is shared across multiple projects), where it makes sense to appoint the project coordinator or other study staff to oversee data checking. Reports from data checking should be shared with designated staff members with specific instructions on how to handle discrepancies.
 
 ===============
 Previous: [Data Entry and Verification](https://github.com/sleepepi/data-management/blob/master/300-data-entry-and-verification.md)

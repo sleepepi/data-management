@@ -1,7 +1,7 @@
 Data Entry and Verification
 ===========================
 
-Overview
+Purpose
 --------
 Data entry and verification are two separate but interrelated steps in data management. Timely completion of these steps ensures maximum data completeness and accuracy. Though ideal timing will vary by project, data type, and available resources, completion of entry and verification within one week of data collection is a standard best practice. Important considerations include:
   * Identification of parties responsible for entry, verification and oversight
@@ -9,21 +9,28 @@ Data entry and verification are two separate but interrelated steps in data mana
   * Designation of a secure storage location
   * Development of workflow detailing tracking procedures and frequency of completion
 
-Content
+Scope
 -------
-
-* Process
+* Responsibilities
+* Procedure
   - Data Entry
   - Data Verification
-* Mechanism
+* References
   - Software
   - Storage
-* Oversight
 
+Responsibilities
+---------
+An individual must be identified who is responsible for the oversight of data entry and verification procedures. Depending on study specifics, likely parties for oversight are the study's project manager or data manager. A workflow should be created that:
 
-Process
+1. Identifies staff members for entry and verification tasks
+2. Details how staff members will know data is ready for entry and verification
+3. Implements the method in which timely entry and verification will be accomplished and logged
+
+Spreadsheets and/or calender-based project management tools can aid in oversight of data entry and verification. It is also wise to designate a physical location where forms in need of entry/verification are temporarily stored that is distinct from the long-term storage of forms that have been entered and verified.
+
+Procedure
 -------
-
 #### Data Entry
 
 Data is given to designated study staff members to enter electronically in a timely manner after collection. Though the project's specific demands and resources dictate the appropriate timing, prioritizing data entry can aid in identifying potentially missing data. In designating staff members for data entry, investigators and managers should consider whether or not the data will unblind staff to treatment assignment.
@@ -36,10 +43,8 @@ Data is verified in one of two ways:
 
 2. In the second verification method, double data entry is utilized. Two staff members will separately enter identical data sets into the collection instruments, and a third staff member will then compare the two entries for discrepancies, make corrections, and then merge them into one complete, verified file.
 
-
-Mechanisms
+References
 ----------
-
 #### Software
 
 The most appropriate software for entry and verification will vary by a project's demands, resources, and scope. In selecting software, investigators and managers should consider the types and volume of data involved, the capabilities of staff responsible for entry/verification and oversight, and institutional/field standards. Though there are numerous software options, there are several common packages used by the Division of Sleep Medicine Epidemiology, often in conjunction with one another for the same project:
@@ -72,15 +77,6 @@ Because of privacy and security concerns, special consideration is needed for th
   * Like live data, archived data should be restricted by user and password protected.
   * Archived data should be accessible only to unblinded staff or should be compartmentalized into different locations with different access rights.
 
-Oversight
----------
-An individual must be identified who is responsible for the oversight of data entry and verification procedures. Depending on study specifics, likely parties for oversight are the study's project manager or data manager. A workflow should be created that:
-
-1. Identifies staff members for entry and verification tasks
-2. Details how staff members will know data is ready for entry and verification
-3. Implements the method in which timely entry and verification will be accomplished and logged
-
-Spreadsheets and/or calender-based project management tools can aid in oversight of data entry and verification. It is also wise to designate a physical location where forms in need of entry/verification are temporarily stored that is distinct from the long-term storage of forms that have been entered and verified.
 
 ===============
 [Back to README](README.md)
