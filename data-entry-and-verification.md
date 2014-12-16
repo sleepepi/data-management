@@ -7,41 +7,37 @@ Data entry and verification are two separate but interrelated steps in data mana
   * Identification of parties responsible for entry, verification and oversight
   * Utilization of software appropriate to the project's demands
   * Designation of a secure storage location
-  * Development of workflow detailing tracking procedures and frequency of completion
+  * Development of work-flow detailing tracking procedures and frequency of completion
 
 Scope
 -------
-* Responsibilities
-* Procedure
-  - Data Entry
-  - Data Verification
-* References
-  - Software
-  - Storage
+This SOP is intended for use by any clinical research staff who may be involved in data entry and verification of a dataset
 
 Responsibilities
 ---------
-An individual must be identified who is responsible for the oversight of data entry and verification procedures. Depending on study specifics, likely parties for oversight are the study's project manager or data manager. A workflow should be created that:
+#### Data Manager
+- To identify research assistant(s) for entry and verification tasks
+- To detail how staff members will know data is ready for entry and verification
+- To implement the method in which timely entry and verification will be accomplished and logged
 
-1. Identifies staff members for entry and verification tasks
-2. Details how staff members will know data is ready for entry and verification
-3. Implements the method in which timely entry and verification will be accomplished and logged
+#### Research Assistant
+- Enter data electronically after collection
 
 Spreadsheets and/or calender-based project management tools can aid in oversight of data entry and verification. It is also wise to designate a physical location where forms in need of entry/verification are temporarily stored that is distinct from the long-term storage of forms that have been entered and verified.
 
 Procedure
 -------
-#### Data Entry
-
-Data is given to designated study staff members to enter electronically in a timely manner after collection. Though the project's specific demands and resources dictate the appropriate timing, prioritizing data entry can aid in identifying potentially missing data. In designating staff members for data entry, investigators and managers should consider whether or not the data will unblind staff to treatment assignment.
-
-#### Data Verification
+1. Data Entry
+  * Data Manager will give data to designated Research Assistant(s) to enter electronically in a timely manner after collection.
+    - Though the project's specific demands and resources dictate the appropriate timing, prioritizing data entry can aid in identifying potentially missing data.
+    - In designating Research Assistant(s) for data entry, investigators and managers should consider whether or not the data will unblind staff to treatment assignment.
+2. Data Verification
 
 Data is verified in one of two ways:
 
-1. Data is entered once by one study staff member, who marks it 'Ready to be reviewed' electronically. Subsequently, the entered data is reviewedby a second study staff member and compared to the original data. The second staff member will then make any necessary corrections and mark it as 'Completed' or 'Reviewed'.
+  * i. Data is entered once by one study staff member, who marks it 'Ready to be reviewed' electronically. Subsequently, the entered data is reviewed by a second study staff member and compared to the original data. The second staff member will then make any necessary corrections and mark it as 'Completed' or 'Reviewed'.
 
-2. In the second verification method, double data entry is utilized. Two staff members will separately enter identical data sets into the collection instruments, and a third staff member will then compare the two entries for discrepancies, make corrections, and then merge them into one complete, verified file.
+  * ii. In the second verification method, double data entry is utilized. Two staff members will separately enter identical data sets into the collection instruments, and a third staff member will then compare the two entries for discrepancies, make corrections, and then merge them into one complete, verified file.
 
 References
 ----------
@@ -54,8 +50,8 @@ The most appropriate software for entry and verification will vary by a project'
 2. [REDCap (Research Electronic Data Capture)](https://redcap.partners.org/redcap/)
   * Originally developed at Vanderbilt University (2004), REDCap is a secure web application designed for building and managing online research databases.
   * Databases can be designed online with minimal to no computer science background.
-    - Data can be created interchangeably using dropdown menus, numeric or text entry, and can be restricted to meet data type requirements.
-    - Inclusion of a dropdown menu for "Incomplete," "Entered," and "Verified" can document entry and verification process.
+    - Data can be created interchangeably using drop-down menus, numeric or text entry, and can be restricted to meet data type requirements.
+    - Inclusion of a drop-down menu for "Incomplete," "Entered," and "Verified" can document entry and verification process.
   * Access can be restricted and logged by user.
   * Data can be exported and stored locally for archiving in formats compatible with common statistical packages (SAS,R,SPSS,Stata).
 3. Offline software

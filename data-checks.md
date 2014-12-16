@@ -7,35 +7,43 @@ Data checks are an important quality control measure in maintaining a clinical d
 
 Scope
 -------
-* Responsibilities
-* Procedure
-  - Missing data checks
-  - Outlier/implausible data checks
-  - Reporting
-* References
-  - Software
-
+This SOP is intended for use by any clinical research staff who may be involved in maintaining and data checking a clinical dataset.
 
 Responsibilities
 ---------
-In many cases, the project's data manager will be responsible for generating data checks and addressing discrepancies when necessary. However, there may be some instances (e.g. the data manager is shared across multiple projects), where it makes sense to appoint the project coordinator or other study staff to oversee data checking. Reports from data checking should be shared with designated staff members with specific instructions on how to handle discrepancies.
+#### Data Manager
+- To generate data checks
+- To address discrepancies when necessary
+
+#### Project Coordinator
+- To oversee data checking
+- To address discrepancies when necessary
 
 Procedure
 ----------------
-Custom programs are written to analyze electronically stored data for discrepancies including outlier values, missing or unverified forms and data fields, and the overall state of data collection and entry. The programs are typically authored by members of the Research Informatics department but may also be written by other study staff. After a program is developed, study staff can run the program with little to no programming experience. Reports are generated from these programs and then distributed to the appropriate study staff members, who then correct or verify the error. Reports are then regenerated to verify the correction.
-
-#### Missing Data
-Missing data is a common problem in clinical datasets. Running frequent data checks can aid in identifying missing data and differentiate between data that is expected to be missing and data that should have been collected. For data that should have been collected, staff check to see if the data was collected but not entered electronically, or if the data was not collected. In many cases, data that was not collected may still be obtainable. For example, if the data being checked is from a questionnaire, and a missing value is found, staff may follow-up with the study participant to obtain a response.
-
-#### Outliers / Implausible Data
-Outliers or data that may seem implausible often occur in clinical datasets. These data may represent real values, but sometimes they signify errors in data entry or collection. Programs may flag potentially implausible data by applying simple logic (e.g. a variable measuring "hours/day" of an activity has some value > 24 hours) or using a priori knowledge of the acceptable range of values (e.g. oxygen saturation = 0% for living participant; participant height = 170 and the unit of measure is inches). In addition to implausible values checks previously described, or when such checks are not feasible, plausibility of data may be evaluated by identifying outliers based on data distributions. Outliers and potentially invalid data should be checked against the data source to confirm accurate data entry. Otherwise, the manner with which outliers and implausible data are handled will vary by the project and data type; the project's data manager should dictate specific methods at his or her discretion and study staff should document any changes made to the raw data.
-
-#### Reporting
-Results of data checks can be easily exported from program software into useful formats such as .pdfs or spreadsheets. If not performing the checks and generating the reports directly, the study's data manager should appoint an individual staff member to be responsible for running data checks and should detail a procedure for handling data discrepancies.
+1. Data Check Programs
+  * Custom programs are written to analyze electronically stored data for discrepancies including outlier values, missing or unverified forms and data fields, and the overall state of data collection and entry
+  * The programs are typically authored by members of the Research Informatics department but may also be written by other study staff
+  * After a program is developed, study staff can run the program with little to no programming experience
+  * Reports are generated from these programs and then distributed to the appropriate study staff members, who then correct or verify the error
+  * Reports are then regenerated to verify the correction
+2. Address Missing Data
+  * Data Manager should run frequent data checks that can aid in identifying missing data and differentiate between data that is expected to be missing and data that should have been collected
+    - For data that should have been collected, staff check to see if the data was collected but not entered electronically, or if the data was not collected
+    - In many cases, data that was not collected may still be obtainable. For example, if the data being checked is from a questionnaire, and a missing value is found, staff may follow-up with the study participant to obtain a response
+3. Address Outliers and Implausible Data
+  * Outliers or data that may seem implausible often occur in clinical datasets. These data may represent real values, but sometimes they signify errors in data entry or collection
+  * Programs may flag potentially implausible data by applying simple logic (e.g. a variable measuring "hours/day" of an activity has some value > 24 hours) or using a prior knowledge of the acceptable range of values (e.g. oxygen saturation = 0% for living participant; participant height = 170 and the unit of measure is inches)
+  * In addition to implausible values checks previously described, or when such checks are not feasible, plausibility of data may be evaluated by identifying outliers based on data distributions
+  * Outliers and potentially invalid data should be checked against the data source to confirm accurate data entry.
+    - Otherwise, the manner with which outliers and implausible data are handled will vary by the project and data type
+    - The Data Manager should dictate specific methods at his or her discretion and study staff should document any changes made to the raw data
+4. Data Check Reporting
+  * Results of data checks can be easily exported from program software into useful formats, such as pdfs or spreadsheets
+  * If not performing the checks and generating the reports directly, the Data Manager should appoint an individual staff member to be responsible for running data checks and should detail a procedure for handling data discrepancies.
 
 References
 ----------
-
 #### Software
 There are many statistical software packages available to aid in data checking. These include:
 
